@@ -1,7 +1,7 @@
 {
-  "名称": "泰达币",
-  "符号"："$"，
-  "描述": "我的 TON 上的 USDT 代币",
-  "图像": "https://i.postimg.cc/g2YqLzH2/IMG-2953.jpg",
-  "小数点位数"：9
-输入：}
+  "name": "USDT",
+  "symbol": "$",
+  "description": "My USDT Token on TON",
+  "image": "https://i.postimg.cc/g2YqLzH2/IMG-2953.jpg",
+  "decimals": 9
+}
